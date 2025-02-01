@@ -1,0 +1,85 @@
+body{
+    color: #613c2f;
+}
+.container {
+    background-color:#f6f4f3;
+    width: 90%;
+    margin: 130px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #613c2f;
+  }
+
+  .containerHeader{
+    color: #613c2f;
+  }
+  .ProductsHeader{
+    color:#a97563;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color:#F3E9E4 ;
+  }
+  
+  table, th, td {
+    border: 1px ;
+    background-color:#F3E9E4 ;
+  }
+  
+  th, td {
+    padding: 12px;
+    text-align: center;
+    border: 1px solid #7B4A3A;
+  }
+  
+  th {
+    background-color: #F3E9E4;
+  }
+  
+  .product-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.3s ease;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  .delete-btn {
+    background-color: #7B4A3A;
+    color: white;
+    margin-left: 5px;
+  }
+  
+  .edit-btn {
+    background-color: #a97563;
+    color: white;
+  }
+  .showVariantsbtn{
+    background-color: #7B4A3A;
+    color: white;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  .variant-table {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
